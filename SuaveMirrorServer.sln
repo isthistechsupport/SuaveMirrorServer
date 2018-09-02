@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SuaveMirrorServer", "SuaveMirrorServer\SuaveMirrorServer.fsproj", "{C557B067-87A9-4579-885C-80E2E0BEC896}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C557B067-87A9-4579-885C-80E2E0BEC896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C557B067-87A9-4579-885C-80E2E0BEC896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C557B067-87A9-4579-885C-80E2E0BEC896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C557B067-87A9-4579-885C-80E2E0BEC896}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {836612D9-B1D3-4152-9D28-10A05CA5D2D6}
+	EndGlobalSection
+EndGlobal
